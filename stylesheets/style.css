@@ -36,6 +36,26 @@ h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {
   text-indent: 0;
 }
 
+ul.categories {
+  font-size: 0.9em;
+  list-style: none;
+  padding: 0;
+}
+
+ul.categories li {
+  background-color: #DDD;
+  display: inline;
+  padding: 4px 6px;
+  font-size: 0.7em;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+}
+
+ul.categories li, ul.categories li a {
+  color: #999 !important;
+}
+
 p {
   margin: 0 0 0.5em;
   text-align: justify;
