@@ -93,3 +93,16 @@ img {
   font-family: Helvetica;
   font-size: 0.7em;
 }
+
+ul#archive {
+  list-style: none;
+}
+
+ul#archive li {
+  margin: 0;
+}
+
+ul#archive li span.time {
+  display: inline-block;
+  width: 120px;
+}

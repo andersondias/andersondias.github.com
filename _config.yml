@@ -1,6 +1,6 @@
 ---
 markdown: maruku
 paginate: 5
-permalink: pretty
+permalink: /:year/:month/:day/:title/index.html
 pygments: true
 safe: false
