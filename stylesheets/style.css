@@ -6,8 +6,11 @@ body {
   width: 35em;
 }
 
-h1 {
+h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
+}
+
+h1 {
   text-align: center;
 }
 
@@ -17,9 +20,9 @@ h1 {
   margin-bottom: 2em;
 }
 
+
 h2 {
   font-size: 1.3em;
-  font-weight: normal;
 }
 
 h2 a {
@@ -64,6 +67,10 @@ p {
   margin: 0 0 0.5em;
   text-align: justify;
   text-indent: 1.3em;
+}
+
+li p {
+  text-indent: 0;
 }
 
 a {
