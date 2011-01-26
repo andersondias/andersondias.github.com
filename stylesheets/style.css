@@ -56,8 +56,11 @@ ul.categories li, ul.categories li a {
   color: #999 !important;
 }
 
-p {
+p, li {
   font-size: 0.9em;
+}
+
+p {
   margin: 0 0 0.5em;
   text-align: justify;
   text-indent: 1.3em;
