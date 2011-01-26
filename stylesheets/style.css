@@ -1,0 +1,70 @@
+body {
+  font-family: Georgia;
+  font-size: 1.3em;
+  line-height: 1.5em;
+  margin: 40px auto 0;
+  width: 35em;
+}
+
+h1 {
+  font-weight: normal;
+  text-align: center;
+}
+
+/** post **/
+
+.post {
+  margin-bottom: 2em;
+}
+
+h2 {
+  font-size: 1.3em;
+  font-weight: normal;
+}
+
+h2 a {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
+h2 a:hover {
+  color: #000 !important;
+  border-bottom: 2px solid #000 !important;
+}
+
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {
+  text-indent: 0;
+}
+
+p {
+  margin: 0 0 0.5em;
+  text-align: justify;
+  text-indent: 1.3em;
+}
+
+a {
+  color: #DC143C;
+  text-decoration: none;
+}
+
+a:visited, a:hover {
+  color: #BA143C;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+}
+
+ol {
+  margin-left: 1.5em;
+}
+
+li {
+  margin-bottom: 0.9em;
+}
+
+img {
+  display: block;
+  border: 0;
+  margin: 1em auto;
+}

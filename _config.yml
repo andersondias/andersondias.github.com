@@ -1,0 +1,6 @@
+---
+markdown: maruku
+paginate: 5
+permalink: pretty
+pygments: true
+safe: false
