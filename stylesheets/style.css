@@ -88,3 +88,8 @@ img {
   border: 0;
   margin: 1em auto;
 }
+
+#disqus_thread {
+  font-family: Helvetica;
+  font-size: 0.7em;
+}
