@@ -35,3 +35,7 @@ Contribuo com projetos open source [ativamente](http://github.com/andersondias).
 - Metodologias ágeis
 - Ruby
 - Git
+
+### Aonde me encontrar
+- [E-mail](mailto:andersondaraujo@gmail.com)
+- [twitter](http://twitter.com/extendsmymind)
