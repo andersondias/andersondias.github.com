@@ -4,6 +4,9 @@ layout: default
 <div class='post'>
   <h2>{{ page.title }}</h2>
   {{ content }}
+
+  <span class='time'>{{ page.date | date: "%Y-%m-%d" }}</span>
+
   {% if page.categories.size > 0 %}
   <ul class='categories'>
     {% for category in page.categories %}
