@@ -1,20 +1,6 @@
 ---
 layout: default
 ---
-<div class='post'>
-  <h2>{{ page.title }}</h2>
-  {{ content }}
 
-  <span class='time'>{{ page.date | date: "%Y-%m-%d" }}</span>
-
-  {% if page.categories.size > 0 %}
-  <ul class='categories'>
-    {% for category in page.categories %}
-    <li>{{ category }}</li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-  <a href="{{ page.url }}#disqus_thread">View Comments</a>
-  <div id="disqus_thread"></div>
-  <script type="text/javascript" src="http://disqus.com/forums/extendsmymind/embed.js"></script>
-</div>
+{% assign post = page %}
+{% include post.html %}
