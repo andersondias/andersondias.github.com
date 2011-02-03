@@ -1,0 +1,13 @@
+h2 {
+  margin-top: 1em;
+}
+
+.addthis_toolbox, #disqus_thread, ul#navigation, #post-navigation {
+  display: none;
+}
+
+.printed-copyright {
+  display: block;
+  font-size: 0.8em;
+  text-align: center;
+}
