@@ -12,6 +12,28 @@
   </ul>
   {% endif %}
 
+  <!-- AddThis Button BEGIN -->
+  <div class="addthis_toolbox addthis_default_style">
+  <a class="addthis_button_twitter"></a>
+  <a class="addthis_button_facebook"></a>
+  <a class="addthis_button_delicious"></a>
+  <a class="addthis_button_googlereader"></a>
+  <a class="addthis_button_email"></a>
+  <a class="addthis_button_compact"></a>
+  </div>
+  <script type="text/javascript">
+    var addthis_config = {
+      "data_track_clickback":true,
+      services_expanded: 'twitter,facebook,delicious,digg,googlereader'
+    };
+    var addthis_share = {
+      url: '{{ post.url }}',
+      title: '{{ post.title }}'
+    }
+  </script>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=extendsmymind"></script>
+  <!-- AddThis Button END -->
+
   <div id='post-navigation'>
     {% if post.previous %}
       <a href="{{ post.previous.url }}" title="{{ post.previous.title }}">&larr; {{post.previous.title }}</a>
@@ -22,7 +44,6 @@
   </div>
 
   <img src='/images/separator.gif' class='separator'/>
-
 
   <div id="disqus_thread"></div>
   <script type="text/javascript">
