@@ -154,3 +154,20 @@ ul#navigation li a:hover {
  color: #DC143C;
  border-bottom-color: #DC143C;
 }
+
+.previous-link, .next-link {
+  width: 50%;
+}
+
+.previous-link {
+  float: left;
+}
+
+.next-link {
+  float: right;
+  text-align: right;
+}
+
+.clear {
+  clear: both;
+}
