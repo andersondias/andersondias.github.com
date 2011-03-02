@@ -78,6 +78,10 @@ p {
   text-indent: 1.3em;
 }
 
+blockquote p {
+  text-align: right;
+}
+
 li p {
   text-indent: 0;
 }
