@@ -78,6 +78,14 @@ p {
   text-indent: 1.3em;
 }
 
+p.image-description {
+  font-size: 0.7em;
+  font-style: italic;
+  margin-right: 5px;
+  margin-top: -20px;
+  text-align: right;
+}
+
 blockquote p {
   text-align: right;
 }
