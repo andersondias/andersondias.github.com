@@ -7,7 +7,7 @@ Sobre mim
 
 Anderson Dias, sou eu.
 
-Trabalho como desenvolvedor web desde 2006 e desde 2007 utilizo com [Ruby](http://ruby-lang.org) e [Ruby on Rails](http://www.rubyonrails.com/).
+Trabalho como desenvolvedor web desde 2006 e desde 2007 trabalho com [Ruby](http://ruby-lang.org) e [Ruby on Rails](http://www.rubyonrails.com/).
 
 Me graduei em Tecnologia em Desenvolvimento de Software pelo [IFRN](http://ifrn.edu.br) em 2009 e atualmente trabalho como desenvolvedor e consultor da [tink!](http://tink.com.br).
 
