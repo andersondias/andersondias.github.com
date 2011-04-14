@@ -14,7 +14,7 @@ Como já falei em outro momento [somos viciados em *software*](/2011/02/26/vicia
 
 <p class='image-description'> <a href='http://www.flickr.com/photos/therefore/4101567511/'>Colour pencils by therefore</a></p>
 
-Murais, quadros branco, papel, lápis de cor, borracha, canetas coloridas, giz de cera, tesoura, régua, post-its de diversas cores. Essas são ferramentas que estimulam a criatividade. Não é necessário ser um excelente desenhista para manuseá-las. A maioria dos desenvolvedores pode utilizar essas ferramentas no seu dia a dia. Esses são materiais obrigatórios em uma sala de desenvolvimento.
+Murais, quadros branco, papel, lápis de cor, borracha, canetas coloridas, giz de cera, tesoura, régua, *post-its* de diversas cores. Essas são ferramentas que estimulam a criatividade. Não é necessário ser um excelente desenhista para manuseá-las. A maioria dos desenvolvedores pode utilizar essas ferramentas no seu dia a dia. Esses são materiais obrigatórios em uma sala de desenvolvimento.
 
 Certa vez [Vinicius Teles](http://twitter.com/viniciusteles) visitou nosso escritório e umas das primeiras coisas que ele perguntou foi: "Onde estão os lápis de cor, as canetas coloridas e papéis?". Tinhamos boas mesas, cadeiras confortabilissimas e ótimos computadores. Porém, ainda precisávamos das ferramentas certas para estimular nossa criatividade. Fomos à papelaria mais próxima e compramos todo o material que era necessário. Fazer protótipos utilizando estes materiais se tornou uma tarefa muito mais divertida e produtiva.
 
