@@ -36,12 +36,18 @@
 
   <div id='post-navigation'>
     {% if post.previous %}
+    <div class='previous-link'>
       <a href="{{ post.previous.url }}" title="{{ post.previous.title }}">&larr; {{post.previous.title }}</a>
+    </div>
     {% endif %}
     {% if post.next %}
+    <div class='next-link'>
       <a href="{{ post.next.url }}" title="{{ post.next.title }}">{{post.next.title }} &rarr;</a>
+    </div>
     {% endif %}
   </div>
+
+  <div class='clear'> </div>
 
   <img src='/images/separator.gif' class='separator'/>
 

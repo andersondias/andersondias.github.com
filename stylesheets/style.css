@@ -78,6 +78,18 @@ p {
   text-indent: 1.3em;
 }
 
+p.image-description {
+  font-size: 0.7em;
+  font-style: italic;
+  margin-right: 5px;
+  margin-top: -20px;
+  text-align: right;
+}
+
+blockquote p {
+  text-align: right;
+}
+
 li p {
   text-indent: 0;
 }
@@ -153,4 +165,21 @@ ul#navigation li a {
 ul#navigation li a:hover {
  color: #DC143C;
  border-bottom-color: #DC143C;
+}
+
+.previous-link, .next-link {
+  width: 50%;
+}
+
+.previous-link {
+  float: left;
+}
+
+.next-link {
+  float: right;
+  text-align: right;
+}
+
+.clear {
+  clear: both;
 }
