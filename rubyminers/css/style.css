@@ -1,0 +1,53 @@
+@font-face { font-family: "Bebas Neue"; src: url(BebasNeue.otf); }
+
+header, footer {
+  background-color: #aa0000;
+  padding: 30px 0;
+  color: #2b0000;
+}
+
+footer {
+  text-align: center;
+  padding: 15px 0 5px;
+}
+
+footer a, footer a:hover {
+  color: #2b0000;
+  font-weight: bold;
+}
+
+header h1 {
+  font-family: "Bebas Neue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 35px;
+  margin-top: 25px;
+  color: #2b0000;
+}
+
+header p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+article {
+  padding: 30px 0;
+}
+
+.btn-xxlarge {
+  padding: 15px 0;
+  width: 100%;
+  font-size: 22px;
+  line-height: normal;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 30px;
+  }
+
+  #logo {
+    text-align: center;
+  }
+}
