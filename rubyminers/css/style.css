@@ -11,7 +11,11 @@ footer {
   padding: 15px 0 5px;
 }
 
-footer a, footer a:hover {
+a, a:hover {
+  color: #A00;
+}
+
+footer a {
   color: #2b0000;
   font-weight: bold;
 }
