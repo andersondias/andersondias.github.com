@@ -15,7 +15,7 @@ a, a:hover {
   color: #A00;
 }
 
-footer a {
+footer a, footer a:hover {
   color: #2b0000;
   font-weight: bold;
 }
@@ -46,6 +46,11 @@ article {
   border-radius: 5px;
 }
 
+.palestras img {
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+}
 @media (max-width: 480px) {
   header h1 {
     font-size: 30px;
