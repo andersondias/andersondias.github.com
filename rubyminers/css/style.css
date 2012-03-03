@@ -45,6 +45,10 @@ article {
   -moz-border-radius: 5px;
   border-radius: 5px;
 }
+.btn-xxlarge small {
+  font-size: 13px;
+  font-weight: bold;
+}
 
 .palestras img {
   -webkit-border-radius: 5px;
