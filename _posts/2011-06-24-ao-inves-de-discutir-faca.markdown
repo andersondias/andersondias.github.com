@@ -16,7 +16,7 @@ Uma das práticas de um desenvolvedor ágil é a capacidade de **criticar idéia
 
 Exitem duas posturas a serem aprendidas por todos os envolvidos. A primeira diz respeito ao defensor de uma idéia. A sua solução pode ser a melhor, mas não necessariamente é melhor neste momento. É preciso entender que a sua idéia pode ser boa, mas não necessariamente é a única que resolve o problema. Assuma uma postura de humildade e de vontade de aprender com outros.
 
-A segunda diz respeito ao contestador da idéia. É muito fácil se sentir superior ao achar uma falha na idéia de outra pessoa. Perceba que todos nós podemos ter boas e más idéias, e que errar faz parte do processo de aprendizado. Portanto, ao achar um ponto falho no discurso de alguém, não exponha a pessoa. Antes, assuma uma postura de ajudar o próximo a enxergar o problema de um outro ponto de vista. Use com cuidados suas palavras para não atacar quem está expondo uma udéia, e sim levá-lo a aprender um pouco mais. E sempre lembre: você pode estar errado, então, tome cuidado.
+A segunda diz respeito ao contestador da idéia. É muito fácil se sentir superior ao achar uma falha na idéia de outra pessoa. Perceba que todos nós podemos ter boas e más idéias, e que errar faz parte do processo de aprendizado. Portanto, ao achar um ponto falho no discurso de alguém, não exponha a pessoa. Antes, assuma uma postura de ajudar o próximo a enxergar o problema de um outro ponto de vista. Use com cuidados suas palavras para não atacar quem está expondo uma idéia, e sim levá-lo a aprender um pouco mais. E sempre lembre: você pode estar errado, então, tome cuidado.
 
 Venkat Subramaniam e Andy Hunt<sup>1</sup> defendem algumas práticas para ajudar a gerar boas discussões:
 
