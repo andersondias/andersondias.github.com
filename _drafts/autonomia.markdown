@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autonomia
-categories: pt
+tags: pt
 ---
 Cada pessoa da sua equipe deve ser uma unidade totalmente autônoma, independente, que sabe decidir e prosseguir sem alguém para o guiar.
 

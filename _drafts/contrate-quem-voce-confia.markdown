@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contrate quem você confia
-categories: pt
+tags: pt
 ---
 Algumas empresas adotam políticas de segurança complexas para garantir que seus funcionários não vazem informação para concorrentes ou utilizem das informações extraídas para tirar algum proveito.
 

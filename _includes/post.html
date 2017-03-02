@@ -1,68 +1,27 @@
-<div class='post'>
-  <h2>{{ post.title }}</h2>
-  {{ content }}
+<main class='post'>
+  <h1>{{ post.title }}</h1>
 
-  <span class='time'>{{ post.date | date: "%Y-%m-%d" }}</span>
-
-  {% if post.categories.size > 0 %}
-  <ul class='categories'>
-    {% for category in post.categories %}
-    <li>{{ category }}</li>
-    {% endfor %}
-  </ul>
+  {% if post.summary %}
+    {% include summary/{{post.summary}} %}
   {% endif %}
 
-  <!-- AddThis Button BEGIN -->
-  <div class="addthis_toolbox addthis_default_style">
-  <a class="addthis_button_twitter"></a>
-  <a class="addthis_button_facebook"></a>
-  <a class="addthis_button_delicious"></a>
-  <a class="addthis_button_googlereader"></a>
-  <a class="addthis_button_email"></a>
-  <a class="addthis_button_compact"></a>
-  </div>
-  <script type="text/javascript">
-    var addthis_config = {
-      "data_track_clickback":true,
-      services_expanded: 'twitter,facebook,delicious,digg,googlereader'
-    };
-    var addthis_share = {
-      url: '{{ post.url }}',
-      title: '{{ post.title }}'
-    }
-  </script>
-  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=extendsmymind"></script>
-  <!-- AddThis Button END -->
+  <small>Escrito em: {{ post.date | date: "%d/%m/%Y" }} por Anderson Dias</small>
 
-  <div id='post-navigation'>
-    {% if post.previous %}
-    <div class='previous-link'>
-      <a href="{{ post.previous.url }}" title="{{ post.previous.title }}">&larr; {{post.previous.title }}</a>
-    </div>
-    {% endif %}
-    {% if post.next %}
-    <div class='next-link'>
-      <a href="{{ post.next.url }}" title="{{ post.next.title }}">{{post.next.title }} &rarr;</a>
-    </div>
-    {% endif %}
-  </div>
+  {{ content }}
 
-  <div class='clear'> </div>
+  <nav class='pagination'>
+    <ul>
+      {% if post.previous_page %}
+        <li class='previous'><a href="{{post.previous_page.url}}">< Anterior: {{post.previous_page.text}}</a></li>
+      {% endif %}
+      {% if post.next_page %}
+        <li class='next'><a href="{{post.next_page.url}}">Próximo: {{post.next_page.text}} ></a></li>
+      {% endif %}
+    </ul>
+  </nav>
+</main>
 
-  <img src='/images/separator.gif' class='separator'/>
+{% if post.related_content %}
+  {% include related_content/{{post.related_content}} %}
+{% endif %}
 
-  <div id="disqus_thread"></div>
-  <script type="text/javascript">
-      var disqus_shortname = 'extendsmymind';
-
-      var disqus_identifier = '{{ post.id }}';
-      var disqus_url = 'http://extendsmymind.com{{ post.url }}';
-
-      (function() {
-          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = 'true';
-          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-          (document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-</div>

@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Aguarde e confie
-categories: prioridades pt
+tags: prioridades pt
+categories: artigo
+indexed: true
+resume: 'Quando tudo é urgente somente o tempo resolve as prioridades.'
 ---
+
 Clientes amam frases de impacto. "Isto é muito importante", "sem essa funcionalidade o sistema é inútil", "você precisa fazer isso!". Esses são exemplos de sentenças que eles amam. Tudo é muito importante e isso é uma mentira. Não é possível medir o valor de uma funcionalidade a não ser pela falta que ela realmente faz. É necessário aprender junto com o cliente o que realmente importa, e principalmente o que não importa para o sistema.
 
 Seu cliente sabe o que quer, mas nem sempre sabe o que necessita. Existe um abismo entre o que ele pensa que é bom e o que é realmente importante. Um dos erros mais comuns na gerência de projetos é ceder a cada requisição sem avaliar a importância das mesmas.

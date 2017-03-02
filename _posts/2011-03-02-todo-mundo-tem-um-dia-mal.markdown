@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Todo mundo tem um dia mal
-categories: impedimentos pt
+tags: impedimentos pt
+categories: artigo
+indexed: true
+resume: 'Como respeitar a individualidade em uma equipe.'
 ---
+
 > "Indivíduos e interações mais que processos e ferramentas"
 >
 > [Manifesto Ágil](http://agilemanifesto.org/iso/ptbr/)

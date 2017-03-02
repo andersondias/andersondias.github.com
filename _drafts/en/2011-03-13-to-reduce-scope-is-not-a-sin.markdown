@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To reduce scope is not a sin
-categories: adaptability priority en
+tags: adaptability priority en
 ---
 
 We were late. Team were compromised with a list of functionalities and we didn't achieved our goal. And it's was getting worse. We made a bad prioritization and we gave more attention to lowest priority tasks. We needed to change the course to achieve the expectations.

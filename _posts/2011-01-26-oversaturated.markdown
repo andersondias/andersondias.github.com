@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Oversaturated
-categories: simplicidade pt
+tags: simplicidade pt
+categories: artigo
+indexed: true
+resume: Nem sempre a solução engenhosa do vizinho é útil para você.
 ---
+
 É engraçado como somos influenciados pela opinião dos que consideramos *grandes*. Faço questão de aprender com outros e é muito bom crescer com a experiência daqueles que visivelmente estão na nossa frente. Mas, é interessante como a opinião de alguém *grande* nos força a pensar que estamos errados quando podemos estar certos.
 
 A minha equipe está passando por uma remodelagem no formato de trabalho. Estamos, enfim, saindo do escritório e trabalhando em casa. Precisávamos refazer nosso fluxo de revisão de código. Antes a revisão ocorria naturalmente através do *Pair Programming*, agora precisamos de um novo fluxo que supra a falta dos pares. E esse fluxo nasceu naturalmente. Ninguém combinou como fazer. Ele simplesmente ocorreu. O princípio de que devemos revisar código é intrínseco a nossa forma de desenvolver, por isso a espontaneidade.

@@ -1,8 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
-<html xmlns="http://www.w3.org/1999/xhtml"> 
-  <head> 
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!-->
+<html lang="en">
+<!--<![endif]-->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
     <title>{{ post.title }}</title> 
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /> 
+    <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab" rel="stylesheet">
+    <link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
     <meta content="Anderson Dias" name="author" />
     <link rel="stylesheet" href="/stylesheets/style.css" type="text/css" media="screen, print">
     <link rel="stylesheet" href="/stylesheets/print.css" type="text/css" media="print">
@@ -22,22 +27,22 @@
     </script>
   </head>
   <body>
-    <div id='header'>
-      <h1>Blog &lt; MyMind</h1>
-      <ul id='navigation'>
-        <li><a href='/'>Home</a></li>
-        <li><a href='/artigos.html'>Artigos</a></li>
-        <li><a href='/sobre.html'>Sobre</a></li>
-      </ul>
+    <header>
+      <div class="wrapper">
+        <nav>
+          <a class='home' href="/">andersondias.github.com</a>
+          <a href="/sobre">sobre mim</a>
+        </nav>
+      </div>
+    </header>
+    <div class='content'>
+      {{content}}
     </div>
-    <div id='content'>
-      {{ content }}
-    </div>
-    <div id='footer'>
-      <p class='printed-copyright'>Este artigo é de autoria de Anderson Dias.</p>
-      <p class='printed-copyright'>extendsmymind.com &copy; 2011</p>
-      <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
-    </div>
+    <footer>
+      <div class="wrapper">
+        <p>Todo o conteúdo deste site foi escrito por Anderson Dias e pode ser livremente citado contanto que a referência à fonte seja mantida.</p>
+      </div>
+    </footer>
     <script type="text/javascript">
       setTimeout(function(){var a=document.createElement("script");
       var b=document.getElementsByTagName("script")[0];

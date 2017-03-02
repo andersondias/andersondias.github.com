@@ -1,8 +1,13 @@
 ---
 layout: post
 title: Menos é menos, e isso é algo bom
-categories: recursos priorização pt
+tags: recursos priorização pt
+categories: artigo
+related_content: 2012-03-07-menos-e-menos-e-isso-e-algo-bom.html
+indexed: true
+resume: 'Ter menos não é necessáriamente algo ruim.'
 ---
+
 Existe um ditado que diz\: menos é mais. Percebi que o certo seria dizer: menos é menos. Pois ter menos não é necessáriamente algo ruim.
 
 Quatro anos atrás estávamos de mudança. Para morar em uma localização privilegiada decidimos alugar uma casa menor. O problema é que se você tem muitas coisas acaba-se tendo menos espaço para acomoda-las. Quatro anos depois estamos na nossa primeira grande reforma e percebi algo: é importante ter menos.
@@ -28,10 +33,3 @@ Se [Pareto](http://pt.wikipedia.org/wiki/Princípio_de_Pareto) estiver correto, 
 No caso da minha reforma, comecei a perceber que guardava coisas desnecessárias e que o problema não era a quantidade de espaço que não existia, e sim a quantidade de coisas que sobravam.
 
 Se você só tem uma bala no revólver, você não irá desperdiça-la, correto? Portanto, toda vez que perceber que existem limitações ao seu redor, abrace-as e se esforce para aprender o máximo com elas.
-
-\-\-
-
-Leitura recomendada:
-
-1. Jason Fried e David Heinemeier Hanson, *Rework*, pág. 67.
-2. [*Embrace Constraints*](http://gettingreal.37signals.com/ch03_Embrace_Constraints.php), *Getting Real*

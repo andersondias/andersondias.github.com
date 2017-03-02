@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Ao invés de discutir, faça!
-categories: aprendizado discussão falha pt
+tags: aprendizado discussão falha pt
+categories: artigo
+related_content: 2011-06-24-ao-inves-de-discutir-faca.html
+indexed: true
+resume: 'Não gaste tempo em discussões intermináveis sobre idéias e ideologias. Faça algo real.'
 ---
 
 Não é incomum um time com bons profissionais começar a ter dificuldades na hora de decidir qual a melhor solução para um determinado problema. Quão mais experiente for a sua equipe, mais opiniões divergentes poderão surgir no momento de tomada de decisões. Isso abre um leque de possibilidades muito interessante e ajuda o time a crescer. O problema é quando o time passa a demorar muito para decidir qual a melhor solução.
@@ -34,10 +38,3 @@ Mas, o que acontece com o esforço gerado na implementação das opções que n�
 As possibilidades descartadas geram aprendizado para a equipe. Em outra situação, uma das opções implementadas pode se tornar uma ótima solução.
 
 Não gaste tempo em discussões intermináveis sobre idéias e ideologias. Faça algo real. Faça algo que resolva o problema. Faça sempre algo que traga real valor para seu time.
-
-\-\-  
-
-Referências:  
-
-1. Venkat Subramaniam e Andy Hunt, *Practices of an Agile Developer*
-2. Kent Beck e Cyhnthia Andres, *Extreme Programming Explained: Embrace change*

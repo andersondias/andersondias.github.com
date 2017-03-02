@@ -1,4 +1,5 @@
 .rvmrc
+.ruby-version
 *.swo
 **/*.swo
 *.swp
@@ -6,3 +7,5 @@
 *.DS_Store
 **/*.DS_Store
 _site/
+vendor/
+.bundle/

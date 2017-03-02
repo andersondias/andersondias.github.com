@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Take a break!
-categories: produtividade pt
+tags: produtividade pt
 ---
 
 Trabalho, muito trabalho. Geralmente é o que temos a fazer e isto não necessariamente é algo ruim. Mas sempre existe aquela aparência de que temos mais coisas para terminar do que tempo para completa-las. Por isso desejamos ser extremamente produtivos. Queremos aproveitar cada minuto da melhor forma.

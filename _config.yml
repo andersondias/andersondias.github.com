@@ -1,6 +1,7 @@
 ---
-markdown: maruku
+markdown: kramdown
 paginate: 5
-permalink: /:year/:month/:day/:title/index.html
-pygments: true
+permalink: /:categories/:title
+highlighter: pygments
 safe: false
+gems: [jekyll-paginate]

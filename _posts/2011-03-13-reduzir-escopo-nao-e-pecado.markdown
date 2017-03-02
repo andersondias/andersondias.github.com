@@ -1,9 +1,14 @@
 ---
 layout: post
 title: Reduzir escopo não é pecado
-categories: adaptabilidade priorização pt
+tags: adaptabilidade priorização pt
+categories: artigo
+related_content: 2011-03-13-reduzir-escopo-nao-e-pecado.html
+indexed: true
+resume: 'Sempre que for necessário altere o escopo de uma funcionalidade em prol da meta estabelecida.'
 ---
-Estávamos atrasados. O time se comprometeu com um conjunto de funcionalidades e não atingimos nossa meta. Ainda podia ficar pior. Priorizamos errado e demos mais atenção a funcionalidades de menos importância. Precisávamos urgentemente mudar o rumo para atender às expectativas.  
+
+Estávamos atrasados. O time se comprometeu com um conjunto de funcionalidades e não atingimos nossa meta. Ainda podia ficar pior. Priorizamos errado e demos mais atenção a funcionalidades de menos importância. Precisávamos urgentemente mudar o rumo para atender às expectativas.
 
 Estávamos trabalhando em uma tarefa e sua funcionalidade foi concluída. Faltava somente colocar algumas informações que poderiam ajudar o usuário a utilizá-la. Não era algo vital. Procurávamos os melhores ícones para as explicações ficarem mais simpáticas. Mas, o problema era um pouco maior. Nos apegamos a detalhes de uma tarefa de baixa prioridade enquanto uma funcionalidade importante ainda não havia sido acabada.
 
@@ -19,11 +24,4 @@ Mudamos o escopo da funcionalidade. Ela irá ao ar sem alguns detalhes que pensa
 
 **Sempre que for necessário altere o escopo de uma funcionalidade em prol da meta estabelecida.**
 
-E sempre fique atento à correta priorização das tarefas.  
-
-\-\-  
-
-Referências:  
-
-1. Schwaber e Beedle, *Agile software development with Scrum*
-2. Telles, Vinícius Manhães, *Extreme programming*: aprenda como encantar seus usuários desenvolvendo *software* com agilidade e alta qualidade, pág. 48, 2006
+E sempre fique atento à correta priorização das tarefas.
