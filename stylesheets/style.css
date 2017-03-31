@@ -237,7 +237,8 @@ nav.pagination li.next {
 }
 
 ul.home-articles-list li {
-  width: 50%;
+  width: 45%;
+  margin-right: 5%;
   float: left;
   display: inline;
 }
@@ -253,4 +254,5 @@ ul.home-articles-list li p {
   margin-top: 5px;
   font-size: 16px;
   line-height: 1.25;
+  min-height: 40px;
 }

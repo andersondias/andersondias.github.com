@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class='hero'>
   <div class="wrapper">
     <main>
@@ -16,14 +17,14 @@ layout: default
 </div>
 
 <div class="wrapper">
-    <ul class='home-articles-list'>
-      {% for post in site.posts %}
-        {% if post.indexed %}
-          <li>
-            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            <p>{{post.resume}}</p>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
+  <ul class='home-articles-list'>
+    {% for post in site.posts %}
+      {% if post.indexed %}
+        <li>
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <p>{{post.resume}}</p>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </div>
