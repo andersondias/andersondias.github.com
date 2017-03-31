@@ -66,7 +66,7 @@ No décimo e último capítulo temos a exposição dos fatos do ponto de vista d
 
 Numa profunda auto-análise ele cita que suas aspirações acabaram induzindo-o ao bem, livrando-o de falhas mais grotescas para a sociedade. Diante dos olhos de outrem ele seria considerado um bom rapaz, mas ele sabia de seus próprios defeitos.
 
-Com o passar dos anos essa fachada foi se revelando diante de seus olhos e ele então percebe que ele vivia uma vida dupla:
+Com o passar dos anos essa fachada foi se revelando diante de seus olhos e ele então percebe que vivia uma vida dupla:
 
 > "Assim, aconteceu que ocultei meus prazeres e que, quando alcancei anos de reflexão e comecei a olhar a minha volta e fazer um balanço de meu progresso e de minha posição no mundo, deparei-me com uma duplicidade profunda da vida."
 
@@ -129,7 +129,7 @@ Lembro-me das palavras de Mario Sérgio Cortela, filósofo brasileiro, durante e
 > "A grande diferença entre religião e ciência, é que religião é crer para ver e ciência é ver para crer."
 > Mario Sergio Cortela
 
-Mas por vezes, como demonstra o Dr. Lanyon, há dentro da ciência um pouco de fé. Fé que é possível fazer algo que hoje a ciência não comporta ou entender.
+Mas por vezes, como demonstra o Dr. Lanyon, há dentro da ciência um pouco de fé. Fé que é possível fazer algo que hoje a ciência não comporta ou entende.
 
 Por fim ele viu e não creu. Isso é contraditório para um cientista.
 
