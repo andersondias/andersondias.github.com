@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Todo mundo tem um dia mal
+title: Todo mundo tem um dia mau
 tags: impedimentos pt
 categories: artigo
 indexed: true
@@ -26,7 +26,7 @@ Algumas pessoas se expõem com facilidade. Outras são retraídas. Entretanto, �
 
 A equipe - principalmente a gerência do projeto - precisa entender que cada indivíduo passa por diversas fases na sua vida e que elas interferem diretamente na sua forma de trabalhar.
 
-**Todo mundo tem um dia mal**.
+**Todo mundo tem um dia mau**.
 
 Com isto em mente é possível entender alguns desvios que ocorrem durante o desenvolvimento de um projeto. Queda na produtividade, aumento na taxa de inserção de erros e falta de criatividade são exemplos dos efeitos colaterais que podem ser sentidos. A gerência e a equipe devem estar sensíveis para poder neste momento contribuir com aquele que passa por dificuldades.
 

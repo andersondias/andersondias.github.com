@@ -24,7 +24,7 @@ Na minha opinião o livro poderia ser dividida em três grandes partes:
 
 Os oito primeiros capítulos (de um total de dez) narram a investigação iniciada pelo advogado Mr. Utterson ao se deparar com uma estranha história de Mr. Hyde e seu envolvimento com um grande amigo Dr. Henry Jekyll.
 
-A antonímia de caráter e personalidade desta amizade intriga o "detetive". Um é essencialmente mal e repulsivo. O outro reconhecido por sua bondade e virtude.
+A antonímia de caráter e personalidade desta amizade intriga o "detetive". Um é essencialmente mau e repulsivo. O outro reconhecido por sua bondade e virtude.
 
 A maldade das ações de Mr. Hyde avultam ao longo da história culminando com um assassinato estarrecedor.
 
@@ -86,7 +86,7 @@ O seu novo eu trouxe uma mistura de sentimentos:
 
 > "Havia algo estranho em meus sentimentos, algo indescritivelmente novo e, por causa dessa própria novidade, incrivelmente prazeroso. Senti-me mais jovem, mais leve, mais feliz naquele corpo."
 
-Todas as amarras que ele tinha construído ao longo de sua vida para evitar que o seu lado mal aflorasse, estavam agora desfeitas e essa liberdade o inebriou. Enfim ele se tornou: "um escravo do pecado original".
+Todas as amarras que ele tinha construído ao longo de sua vida para evitar que o seu lado mau aflorasse, estavam agora desfeitas e essa liberdade o inebriou. Enfim ele se tornou: "um escravo do pecado original".
 
 Para finalizar seu experimento, toma novamente a poção e volta a ser Henry Jekyll. Porém, para sua surpresa e maldição, não há em seu estado natural somente a bondade.
 
@@ -161,7 +161,7 @@ Bebe novamente a poção na esperança de se tornar bom e aqui entra a frustraç
 
 O lado bom não o dominou. Continuava sendo tentado da mesma forma, mas agora, pro seu infortúnio, encontrou um abrigo seguro para a maldade de seu coração.
 
-Tivera se tornado de fato mal e não daria espaço a voltar pro bem, da mesma forma tivera se tornado totalmente bom e nunca mais desejaria voltar a forma vil.
+Tivera se tornado de fato mau e não daria espaço a voltar pro bem, da mesma forma tivera se tornado totalmente bom e nunca mais desejaria voltar a forma vil.
 
 O médico sem perceber não alcançou seu objetivo, antes criou pra si uma maldição, um vício que o destruiria pra sempre. Sem saber achou a fórmula que o livrava da má consciência. Poderia toma-la e satisfazer-se em seus delitos sem culpa.
 
