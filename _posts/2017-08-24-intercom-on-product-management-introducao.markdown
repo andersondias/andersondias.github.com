@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Análise do livro: Intercom on Product Management'
+title: 'Análise: Intercom on Product Management'
 tags: livro
 categories: resumos-de-livros
 related_content: 2017-08-24-intercom-on-product-management.html
 indexed: true
-resume: 'Análise do livro'
+resume: 'Análise deste livro da Intercom sobre gestão de produtos.'
 next_page:
  url: /resumos-de-livros/intercom-on-product-management-capitulo-01
  text: Evaluate your product
