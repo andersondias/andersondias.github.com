@@ -12,7 +12,7 @@ next_page:
  text: When to say no to new features
 ---
 
-O primeiro capítulo do livro é dedica a avaliação do produto. A partir do pressuposto que você já tem um produto rodando em produção, os autores levantam questionamentos e indicam caminhos para entender o estado atual do seu produto.
+O primeiro capítulo do livro é dedicado à avaliação do produto. A partir do pressuposto que você já tem um produto rodado em produção, os autores levantam questionamentos e indicam caminhos para entender o estado atual do seu produto.
 
 ## O que as pessoas estão fazendo em seu produto?
 
@@ -42,7 +42,7 @@ Com este mapa em mente você pode começar a discutir o que pode ser feito para 
 
 Um ponto interessante que é levantado: se você tem 10 features e uma delas é muito mais utilizada (digamos 10x mais) que todas as outras, provavelmente seu produto está fora de foco e você está sujeito à aparecer um novo competidor que faz somente aquela feature com mais cuidado.
 
-Isso é bastante plausível, se você pôs muito esforço em todas as outras features e elas não são nenhum um pouco utilizadas.
+Isso é bastante plausível, se você pôs muito esforço em todas as outras features e elas não são nem um pouco utilizadas.
 
 ### O que fazer com esta análise?
 
@@ -55,7 +55,7 @@ São propostas 4 possíveis ações para o caso de você ter uma parte do seu pr
 
 ### Removendo uma feature
 
-Infelizmente, o livro não explora a primeira opção (remoção de feature) em mais profundidade. Eu creio que de todos os pontos, este é o mais traumático dos seguintes pontos de vista:
+Infelizmente, o livro não explora esta primeira opção em mais profundidade. Eu creio que de todas as propostas, este é a mais traumática dos seguintes pontos de vista:
 
 1. Os desenvolvedores envolvidos podem se sentir traídos, ou que perderam tempo;
 2. Os gestores podem sentir que falharam e desanimar;
