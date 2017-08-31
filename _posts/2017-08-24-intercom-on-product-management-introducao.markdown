@@ -17,6 +17,6 @@ A Intercom é uma empresa focada em comunicação empresa x clientes, fundada em
 
 É um livro curto (58 páginas) e introdutório sobre o assunto. Apesar de ser baseado nos textos do blog, foram bem curados e polidos para dar a estrutura necessária para o livro.
 
-Repleto das experiências, sucessos e falhas dos autores, permite que você inicie neste estilo de gestão com uma base sólida de entendimento sobre o assunto. Não é um livro profundo, mas nos inspira à buscar entender melhor como avaliar, evoluir e melhorar nossos produto.
+Repleto das experiências, sucessos e falhas dos autores, permite que você inicie neste estilo de gestão com uma base sólida de entendimento sobre o assunto. Não é um livro profundo, mas nos inspira à buscar entender melhor como avaliar, evoluir e melhorar nossos produtos.
 
 *Nota: As referências citadas adiante foram livremente traduzidas para facilitar a leitura dos textos.*
