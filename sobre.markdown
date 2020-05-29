@@ -44,5 +44,5 @@ Meu objetivo é criar e liderar times de alta performance e empoderados que seja
 
 ### Aonde me encontrar
 - [E-mail](mailto:andersondaraujo@gmail.com)
-- [twitter](http://twitter.com/extendsmymind)
-- [LinkedIN](www.linkedin.com/in/anderson-dias-3967097)
+- [Twitter](http://twitter.com/extendsmymind)
+- [LinkedIn](www.linkedin.com/in/anderson-dias-3967097)
