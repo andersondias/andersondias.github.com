@@ -17,25 +17,25 @@ Meu objetivo é criar e liderar times de alta performance e empoderados que seja
 
 ### Eventos que palestrei
 
-- **Agile Workshop**
+- **[RubyConfBR 2017](https://en.eventials.com/locaweb/what-ive-learned-after-3-billion-jobs-in-sidekiq-com-anderson-dias/)**
 
-  Participei como ministrante deste workshop promovido pela [tink!](http://tink.com.br) para promover o desenvolvimento ágil na comunidade local.
-
-- **[Oxente Rails 2009](http://oxenterails.com)**
-
-  Apresentei uma lighting talk sobre os motivos que me levaram a sair do mundo Java e passar a trabalhar com Ruby on Rails.
-
-- **[Oxente Rails 2010](http://oxenterails.com)**
-
-  Apresentei uma lighting talk sobre a necessidade de parar de pensar como um desenvolvedor isolado e se tornar parte de uma comunidade.
+  Palestrei sobre os aprendizados adquiridos após lidar com mais de 3 bilhões de jobs executados no Sidekiq, uma ferramenta de processamento assíncrona referência para a comunidade Ruby on Rails.
 
 - **[PythonCampus Natal](http://rn.softwarelivre.org/pythoncampus/)**
 
   Palestrei sobre como o [github](http://github.com) pode se tornar uma poderosa ferramenta para contribuir com o mundo open source.
 
-- **[RubyConfBR 2017](https://en.eventials.com/locaweb/what-ive-learned-after-3-billion-jobs-in-sidekiq-com-anderson-dias/)**
+- **[Oxente Rails 2010](http://oxenterails.com)**
 
-  Palestrei sobre os aprendizados adquiridos após lidar com mais de 3 bilhões de jobs executados no Sidekiq, uma ferramenta de processamento assíncrona referência para a comunidade Ruby on Rails.
+  Apresentei uma lighting talk sobre a necessidade de parar de pensar como um desenvolvedor isolado e se tornar parte de uma comunidade.
+
+- **[Oxente Rails 2009](http://oxenterails.com)**
+
+  Apresentei uma lighting talk sobre os motivos que me levaram a sair do mundo Java e passar a trabalhar com Ruby on Rails.
+
+- **Agile Workshop**
+
+  Participei como ministrante deste workshop promovido pela [tink!](http://tink.com.br) para promover o desenvolvimento ágil na comunidade local.
 
 ### Áreas de interesse
 
