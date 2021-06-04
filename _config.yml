@@ -4,4 +4,4 @@ paginate: 5
 permalink: /:categories/:title
 highlighter: rouge
 safe: false
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
