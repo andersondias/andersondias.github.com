@@ -40,6 +40,11 @@ No fim da noite terminamos de rever todos os exercícios e algo especial acontec
 
 Sem computadores, calculadoras ou smartphones à vista. Tudo que se via eram campos verdes. Lá no alto do monte estava um pastor com suas ovelhas e ele precisava **conta-las** para nunca deixar uma esquecida.
 
+
+!["Contando as ovelhas"
+](/images/contando-ovelhas.jpg "Contando as ovelhas")
+<small>Contando as ovelhas (original em https://flic.kr/p/9EVyCF)</small>
+
 Quando uma das ovelhas procriava vinham as novas ovelinhas, daí surge a **adição**. Quando outra delas morria, a **subtração** estava presente. As vezes ele precisava negociar com outro pastor e eles conversavam sobre valer o **dobro** do oferecido ou que só poderia comprar um **quarto** do rebanho, **multiplicação** e **divisão**.
 
 Operações básicas, que surgiram da necessidade de expressar o mundo real e suas complexidades. Os símbolos que representam essas operações foram diferentes ao longo dos anos, mas as operações estavam lá, muitas vezes escritas na mente das pessoas, ainda que não existe papel ou escrita.
